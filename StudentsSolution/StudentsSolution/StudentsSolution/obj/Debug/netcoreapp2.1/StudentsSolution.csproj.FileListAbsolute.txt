@@ -1,0 +1,11 @@
+C:\Users\crisy\source\repos\Delpy991\Corso\StudentsSolution\StudentsSolution\StudentsSolution\bin\Debug\netcoreapp2.1\StudentsSolution.deps.json
+C:\Users\crisy\source\repos\Delpy991\Corso\StudentsSolution\StudentsSolution\StudentsSolution\bin\Debug\netcoreapp2.1\StudentsSolution.runtimeconfig.json
+C:\Users\crisy\source\repos\Delpy991\Corso\StudentsSolution\StudentsSolution\StudentsSolution\bin\Debug\netcoreapp2.1\StudentsSolution.runtimeconfig.dev.json
+C:\Users\crisy\source\repos\Delpy991\Corso\StudentsSolution\StudentsSolution\StudentsSolution\bin\Debug\netcoreapp2.1\StudentsSolution.dll
+C:\Users\crisy\source\repos\Delpy991\Corso\StudentsSolution\StudentsSolution\StudentsSolution\bin\Debug\netcoreapp2.1\StudentsSolution.pdb
+C:\Users\crisy\source\repos\Delpy991\Corso\StudentsSolution\StudentsSolution\StudentsSolution\obj\Debug\netcoreapp2.1\StudentsSolution.csprojAssemblyReference.cache
+C:\Users\crisy\source\repos\Delpy991\Corso\StudentsSolution\StudentsSolution\StudentsSolution\obj\Debug\netcoreapp2.1\StudentsSolution.csproj.CoreCompileInputs.cache
+C:\Users\crisy\source\repos\Delpy991\Corso\StudentsSolution\StudentsSolution\StudentsSolution\obj\Debug\netcoreapp2.1\StudentsSolution.AssemblyInfoInputs.cache
+C:\Users\crisy\source\repos\Delpy991\Corso\StudentsSolution\StudentsSolution\StudentsSolution\obj\Debug\netcoreapp2.1\StudentsSolution.AssemblyInfo.cs
+C:\Users\crisy\source\repos\Delpy991\Corso\StudentsSolution\StudentsSolution\StudentsSolution\obj\Debug\netcoreapp2.1\StudentsSolution.dll
+C:\Users\crisy\source\repos\Delpy991\Corso\StudentsSolution\StudentsSolution\StudentsSolution\obj\Debug\netcoreapp2.1\StudentsSolution.pdb
